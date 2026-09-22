@@ -53,6 +53,6 @@ This was my first independent project built almost entirely on my own. It tested
 
 ## Notes
 The OpenAI API key is never committed to GitHub; it must be set as an environment variable.
-All code is built independently.
+Code was built independently with assistance from AI.
 Demonstrates skills in debugging, API integration, and frontend-backend coordination.
 
